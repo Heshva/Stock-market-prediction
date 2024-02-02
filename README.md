@@ -9,10 +9,15 @@
 •	Libraries I’ve import
 
 o	yfinance 
+
 o	from TensorFlow, keras
+
 o	import NumPy 
+
 o	from sklearn.preprocessing, MinMaxScaler
+
 o	from sklearn.metrics ,mean_squared_error
+
 o	from matplotlib, pyplot 
 
 
